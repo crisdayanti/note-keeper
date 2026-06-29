@@ -42,7 +42,7 @@ Aplikasi Todo List sederhana menggunakan **React Native + Expo** dengan penyimpa
 
 ### 🔴 Level 3 (Bonus)
 
-- ✅ Kategori Todo
+- ✅ Kategori 
 - ✅ Sorting
 - ✅ Timestamp
 - ✅ SecureStore (PIN sederhana)
