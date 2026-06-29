@@ -1,6 +1,6 @@
-# 📋 React Native Todo List App
+# 📋 React Native Note Keeper List App
 
-Aplikasi Todo List sederhana menggunakan **React Native + Expo** dengan penyimpanan lokal menggunakan **AsyncStorage** sehingga data tetap tersimpan meskipun aplikasi ditutup.
+Aplikasi Note Keeper menggunakan **React Native + Expo** dengan penyimpanan lokal menggunakan **AsyncStorage** sehingga data tetap tersimpan meskipun aplikasi ditutup.
 
 ---
 
