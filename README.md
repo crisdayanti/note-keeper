@@ -81,12 +81,6 @@ cd note-keeper
 npm install
 ```
 
-atau
-
-```bash
-yarn
-```
-
 4. Jalankan Expo
 
 ```bash
