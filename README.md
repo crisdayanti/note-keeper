@@ -51,7 +51,7 @@ Aplikasi Todo List sederhana menggunakan **React Native + Expo** dengan penyimpa
 
 # 📱 Screenshot
 
-| PIN | Tampilan Awal | Sebelum Tutup APP | Sesudah Tutup  App | Dark Mode |
+| PIN | Tampilan Awal | Sebelum Tutup App | Sesudah Tutup  App | Dark Mode |
 | :---: | :---: | :---: | :---: | :---: |
 | ![alt text](image.png) | ![alt text](image-1.png) | ![alt text](image-2.png) | ![alt text](image-3.png) | ![alt text](image-4.png) |
 
